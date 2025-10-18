@@ -1676,7 +1676,7 @@ Note: Uses uncompressed sizes for Riders Archives.
 | TG8 | 99.89 KiB | Riders Archive | Tag Mode Assets: SEGA Carnival |
 | TG9 | 86.88 KiB | Riders Archive | Tag Mode Assets: Night Chase |
 | TITLE_X.SFD | 97.85 MiB | CRI SofDec | Video: Title Screen Intro |
-| TSC | 6.50 MiB | Riders Archive | Menu: Shop Assets |
+| TSC | 6.50 MiB | Riders Archive | Menu: Common Assets |
 | TSEXE | 4.04 MiB | Riders Archive | Menu: Extras [English] |
 | TSEXF | 3.30 MiB | Riders Archive | Menu: Extras [French] |
 | TSEXG | 3.31 MiB | Riders Archive | Menu: Extras [German] |
